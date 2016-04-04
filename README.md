@@ -15,6 +15,10 @@ An IDE written in ANSI C similar to the WYSIWYG Xcode editor from Apple.
 * samples/ - Some simple sample programs on uses of hte GNUCode runtime as an embedded library.
 * scripts/ - Scripts used to invoke GNUCode and the corresponding program.
 
+# Documentation & Reference Manual
+
+[GNUCode: The Reference Manual](http://www.gitbook.com/book/shyamalschandra/gnucode-the-reference-manual/)
+
 **Build Status**
 
 Officially supported architectures:
